@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+*.DS_Store
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Python virtual environment
+.Python
+
+# Caches
+*.cache
+*.parquet
+*.feather
+*.h5
+*.hdf5
+
+# Data files
+*.csv~
+*.json~
+*.xls
+*.xlsx~
+*.sav
+*.gz
+*.zip
+*.tar
+*.tar.gz
+
+# IDE-related files
+.vscode/
+.idea/
+*.code-workspace
+
+# Jupyter Notebook outputs
+*.ipynb_out/
+
+# Security
+*.key
+*.pem
+*.crt
+*.pfx
+secrets.json
+config.json
+
+# Machine learning / deep learning artifacts
+*.model
+*.pkl
+*.h5
+*.onnx
+
+# Matplotlib figures
+figures/
+
+# Custom excludes for large datasets or outputs
+data/
+results/
